@@ -1,0 +1,27 @@
+
+
+.webdevelopment-page{
+    
+    margin-top: 10%;
+    padding: 43px 99px;
+
+}
+.main-heading{
+   color:#665aff;
+   padding: 20px 0px;
+}
+.web-p{
+    color: grey;
+    padding: 20px 0px;
+}
+.webdevelopment-page h3{
+    padding: 20px 0px;
+    color: #665aff;
+}
+.webdev-li{
+    padding: 10px 0px;
+    color: grey;
+}
+.webdev-li b{
+    color: #665aff;
+}
